@@ -1,0 +1,8 @@
+django
+gunicorn
+django-heroku
+django-ckeditor
+Pillow
+djangorestframework
+
+
